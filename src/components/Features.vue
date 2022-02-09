@@ -10,7 +10,7 @@
                             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full text-white flex-shrink-0">
                                 👤
                             </div>
-                            <h2 class="text-gray-900 text-lg title-font font-medium">Privacy</h2>
+                            <h2 class="text-gray-900 text-lg title-font font-medium">Dominik B.</h2>
                         </div>
                         <div class="flex-grow relative">
                             <p class="leading-relaxed text-base">
@@ -45,7 +45,7 @@
                             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full text-white flex-shrink-0">
                                 🔒
                             </div>
-                            <h2 class="text-gray-900 text-lg title-font font-medium">Security</h2>
+                            <h2 class="text-gray-900 text-lg title-font font-medium">Angelos P.</h2>
                         </div>
                         <div class="flex-grow relative">
                             <p class="leading-relaxed text-base">
@@ -82,7 +82,7 @@
                             <div class="w-8 h-8 mr-3 inline-flex items-center justify-center rounded-full text-white flex-shrink-0">
                                 🛡️
                             </div>
-                            <h2 class="text-gray-900 text-lg title-font font-medium">Compliance</h2>
+                            <h2 class="text-gray-900 text-lg title-font font-medium">Georgios M.</h2>
                         </div>
                         <div class="flex-grow relative">
                             <p class="leading-relaxed text-base">
